@@ -1,7 +1,7 @@
 # Discord-Bing-Search-Bot
 This Bot will scrap the first results of Bing Search Engine and display the results at your Discord Channel!
 
-![alt tag](https://imgur.com/a/vzPaiAU)
+![alt tag](https://i.imgur.com/jmVw6Da.jpg)
 
 Use this argument below at your Channel and see the results.
 ```   
