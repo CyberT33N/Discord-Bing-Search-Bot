@@ -10,6 +10,4 @@ Use this argument below at your Channel and see the results.
 
 
 ## License  
-MIT - created by Dennis Demand - upwork.com/fl/dennisdemand
-
-Please contact me on Upwork when you need custom Software!
+MIT
