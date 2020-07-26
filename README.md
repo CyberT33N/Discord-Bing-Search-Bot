@@ -1,5 +1,5 @@
 # Discord Bing Search Bot
-You can write a search query in your Chat. Then bot will do a Bing search, scrap the first 10 results and then display the results at your Discord Channel!
+You can write a search query in your Chat. Then the bot will do a Bing search, scrap the first 10 results and display them at your Discord Channel!
 <br />
 <br />
 Database: **False**
